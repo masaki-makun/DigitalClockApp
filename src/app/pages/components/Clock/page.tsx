@@ -1,3 +1,3 @@
-import Clock from '@/app/components/Clock/page';
+import Clock from "@/app/components/Clock/page";
 
 export default Clock;
